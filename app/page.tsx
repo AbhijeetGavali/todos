@@ -82,10 +82,7 @@ export default function LandingPage() {
         <p className="text-muted-foreground mb-6">
           No setup, no learning curve, no login required to begin.
         </p>
-        <Link
-          href="/login"
-          className="px-8 py-4 rounded-xl bg-black text-white"
-        >
+        <Link href="/todo" className="px-8 py-4 rounded-xl bg-black text-white">
           Try it now
         </Link>
       </div>
